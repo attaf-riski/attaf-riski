@@ -2,17 +2,9 @@
 
 <h3> 💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently learning at University of Diponegoro
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer .
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Dart | Java | C++ | VB.Net | C# | Kotlin 
-- 🌐 &nbsp; Android | flutter
-- 🛢 &nbsp; Firebase | SQL Server
-- 🔧 &nbsp; Android Studio | Visual Studio 2019 | Git | Xcode
 
 <h3>💛 Achievement</h3>
 
