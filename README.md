@@ -6,11 +6,6 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 
-<h3>💛 Achievement</h3>
-
-- 💛 &nbsp; First place at LKS SMK in IT Software Solution For Business Kab.Semarang 2020
-
-
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=attaf-riski&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="attaf's Github Stats">
