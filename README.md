@@ -2,7 +2,7 @@
 
 <h3> 💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning at University of Diponegoro
+- 🔭 &nbsp; I’m currently working at Adaro Group (PT Sapta Indra Sejati)
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 
